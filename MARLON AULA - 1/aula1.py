@@ -1,0 +1,5 @@
+print('ola, munudo')
+print('se voce quer algo vai buscar')
+print('texto teste')
+print('maloney craque')
+print('mister maloney')
